@@ -1,5 +1,5 @@
 ---
-# tasks file for awsec2
+# Tasks for launching ec2 instance
 
 - ec2:
     key_name: JesusChrist
